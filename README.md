@@ -1,4 +1,6 @@
-### Luz Alejandra Rodriguez Gutierrez
+### Hey there, I'm Luz
+
+<a href="https://www.linkedin.com/in/luz-alejandra-rodriguez-gutierrez/" target="blank"><img align="left" src="https://github.com/luzaleja/luzaleja/blob/main/li.jpg?raw=true" height="100%" /></a>
 
 <!--
 **luzaleja/luzaleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
